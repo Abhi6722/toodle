@@ -2,6 +2,7 @@
 
 ![Toodle](https://i.ibb.co/yQdYhtq/image.png)
 
+Link to the Live Website: https://toodle-search.netlify.app
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
 
