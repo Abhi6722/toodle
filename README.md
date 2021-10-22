@@ -32,5 +32,3 @@ Setup:
 ## Platform
 Hosted through [Netlify](https://toodle-search.netlify.app).
 
-## License
-Code released under the [MIT License](https://github.com/Tushar-Indurjeeth/Google-NextJs-Clone/blob/8f44c353a1edc8c726a6b5cce961b9aa51c5ea06/LICENSE).
